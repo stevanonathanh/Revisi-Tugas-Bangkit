@@ -3,7 +3,7 @@
 ## Setup Environment
 ```bash
 git clone https://github.com/stevanonathanh/Revisi-Tugas-Bangkit.git
-cd Revisi-TUgas-Bangkit
+cd Revisi-Tugas-Bangkit
 cd Dashboard
 ```
 ## Install Packages
